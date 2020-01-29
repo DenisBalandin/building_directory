@@ -1,4 +1,3 @@
-# system-builder
 
 > A Vue.js project
 
