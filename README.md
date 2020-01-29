@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-Lunk to site http://buildingdirect.mcdir.ru
+Link to site http://buildingdirect.mcdir.ru
 
 ## Build Setup
 
