@@ -1,0 +1,58 @@
+*{padding: 0; margin: 0;}
+body{
+    background: #f4f4f4;
+   
+}
+#main_block{
+    display: flex;
+    #left_block{
+        width: 20%;
+        .logo_left{
+            font-family:Myriad Pro ;
+            font-size: 39px;
+            border-left: 3px solid #125e79;
+            width: 70%;
+            margin: 20px auto 40px auto;
+            padding: 0 10px 0 10px;
+        }
+        .floor_block{
+            .floor_num{
+                width: 80%;
+                margin: 10px auto 10px auto;
+                color:#006081;
+                font-size: 15px;
+            }
+            .company_name{
+                background: #ffffff;
+                height: 60px;
+                padding: 5px 0 15px 0;
+                border-bottom: #e3e3e3 solid 2px;
+                margin: 0 0 5px 0;
+                p{
+                    width: 70%;
+                    margin: 10px auto 5px auto;
+                    font-size: 20px;
+                    color:#000000;
+                }
+                div{
+                    width: 70%;
+                    margin: 5px auto 10px auto;
+                    color: #4d4d4d;
+                }
+            } 
+           
+        }
+    }
+    #right_block{
+        background: url(assets/background.jpg) no-repeat;
+        background-size: 100%;
+        width: 80%;
+       height: 860px;
+       .right_logo{
+        
+           margin: 40px 0 0 40px;
+       }
+    }
+
+    
+}
